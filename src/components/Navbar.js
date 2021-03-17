@@ -23,7 +23,7 @@ const Navbar = () =>{
       </ul>
       
     </div>
-    
+      <Link className = "btn btn-outline-light" exact to="/users/add">Add User</Link>  
     </div>
   </nav>
   );
